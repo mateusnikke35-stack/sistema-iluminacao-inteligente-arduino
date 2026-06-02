@@ -1,4 +1,4 @@
-# 🌃 Sistema de Iluminação Urbana Automática com Arduino
+# 🌃 Sistema de Iluminação Urbana Automática com  Arduino
 
 Projeto acadêmico desenvolvido utilizando **Arduino Uno**, sensor **LDR**, **ESP8266** e protocolo **MQTT** para simular um sistema inteligente de iluminação pública automática. ⚡💡
 
